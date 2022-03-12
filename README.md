@@ -9,4 +9,4 @@ This application emphasizes the use of Javascript to generate a random, secure p
 - To access the codebase please click on: [this link](https://github.com/deanhay/week-3-password-generator) 
 
 ## Screenshot
-![Screenshot]()
+![Screenshot](03-javascript-homework-demo.png)
